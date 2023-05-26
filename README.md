@@ -13,6 +13,6 @@ NewsMaster is a conversational voice controlled React News Application. You can 
 //Key Features
 Completely voice control app with React.JS
 
-//initialise & start the app
-npm i 
-npm start
+//initialise npm packages & start the app
+=> npm i 
+=> npm start
